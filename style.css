@@ -1,0 +1,23 @@
+.para-1 {
+  color: #ff0000;
+  text-align: center;
+  /* border-style: dashed;
+  border-width: 2px;
+  border-color: black; */
+  border: 2px solid black;
+}
+
+#para-2 {
+  color: blue;
+}
+
+.wrapper {
+  /* margin-top: 200px;
+  margin-bottom: 100px;
+  margin-left: 50px;
+  margin-right: 50px; */
+  background-color: green;
+  margin: 200px 100px;
+  border: 2px solid black;
+  padding-top: 200px;
+}
